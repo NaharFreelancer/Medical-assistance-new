@@ -1,0 +1,272 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+}
+
+
+/* =====header section start here==== */
+.menu > ul{
+    width: 400px;
+}
+
+.menu > ul > li{
+    font-size: 13px;
+    color: #373737;
+    /* cursor: pointer; */
+    position: relative;
+    padding: 13px;
+}
+
+.menu > ul > li .login__info, .dropDown{
+    position: absolute;
+    width: 200px;
+    z-index: 999;
+    background-color: #fff;
+    padding: 10px;
+    right: 0;
+    top: 33px;
+    box-shadow: 0 0 5px 0 rgb(50 50 50 / 40%);
+    visibility: hidden;
+}
+
+.menu > ul > li:hover .login__info, .menu > ul > li:hover .dropDown{
+    visibility: visible;
+    top: 45px;
+    transition: 0.3s ease-in;
+}
+
+.menu > ul > li a{
+    display: block;
+    color: #777 !important;
+}
+
+.menu > ul > li .login__info a{
+    color: #000;
+}
+
+.menu > ul > li .login__info .login a{
+    padding: 6px 10px;
+    width: 73px;
+    text-align: center;
+    background-color: #ea2330;
+    display: block;
+    color: #fff !important;
+}
+
+.menu > ul > li .login__info .login a:last-child{
+    background-color: #fff;
+    color: #ea2330 !important;
+    border: 1px solid #ea2330;
+}
+
+.loginOther{
+    font-size: 13px;
+    margin-top: 15px;
+}
+
+.dropDown{
+    position: absolute;
+    background-color: #fff;
+    z-index: 999;
+    width: 240px;
+    padding: 10px 15px;
+}
+
+.dropDown > ul > li {
+    padding: 6px 0;
+}
+
+.menu > ul > li ul li{
+    transition: 0.3s ease-in-out;
+}
+
+.menu > ul > li ul li:hover{
+    margin-left: 10px;
+}
+
+
+/* =====header section start here==== */
+
+/* ============================================
+        package page css start here 
+===============================================*/
+
+/* =====top section start here===== */
+.top__section{
+    background-image: url(../image/bg/top1.png);
+}
+/* =====top section end here===== */
+
+/* =====tab section start here===== */
+
+.tab__nav button {
+    font-size: 15px;
+    padding: 13px 12px;
+    outline: none;
+}
+
+button.nav-link.active {
+    position: relative;
+    color: #000 !important;
+}
+
+button.nav-link.active::before {
+    position: absolute;
+    content: "";
+    height: 5px;
+    width: 100%;
+    background: rgba(255, 0, 0, 0.751);
+    top: 0;
+    left: 0;
+}
+/* =====tab section end here===== */
+
+
+/* =====flight section start here===== */
+.schedule__card{
+    /* transition: 0.3s ease-in-out; */
+    box-shadow: 0 0 5px 0 rgb(50 50 50 / 10%);
+    margin-bottom: 25px;
+    transition: 0.3s ease-in-out;
+}
+
+.schedule__card:hover{
+    box-shadow: 0 0 5px 0 rgb(50 50 50 / 40%);
+}
+
+.schedule__card img{
+    width: 100%;
+}
+
+.schedule__cont{
+    margin-bottom: 30px;
+}
+
+.schedule__cont p {
+    font-size: 14px;
+    color: #333;
+}
+
+.schedule__cont p span {
+    font-size: 13px;
+    color: #888;
+}
+
+.schedule P {
+    font-size: 13px;
+    color: #888;
+}
+
+.schedule p span {
+    color: #000;
+}
+
+.schedule__button {
+    font-size: 16px;
+    color: #777;
+    padding: 10px 15px;
+    border: 1px solid lightgray;
+    transition: 0.3s ease-in-out;
+    display: inline-block;
+}
+
+.schedule__card:hover .schedule__button{
+    background-color: #ea2330;
+    border: 1px solid #ea2330;
+    color: #fff;
+}
+
+.unfind:hover .schedule__button{
+    background-color: #ea2330;
+    color: #fff;
+    border: 1px solid #ea2330;
+}
+
+
+/* =====flight section start here===== */
+
+/* ============================================
+        package page css end here 
+===============================================*/
+
+/* package page css end here */
+
+
+/* details page */
+.details__inner{
+    position: relative;
+}
+
+.details__inner img{
+    height: 600px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.details__inner p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.dets{
+    width: 100%;
+    max-width: 900px;
+    /* margin:-55px auto ; */
+    border-radius: 20px;
+    box-shadow: 0 0 5px 0 rgb(50 50 50 / 40%);
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+    background-color: #fff;
+}
+
+.dets1, .dets2{
+    border-right: 5px solid #ea2330;
+}
+
+.dets1, .dets2, .dets3{
+    width: 33%;
+    height: 100px;
+}
+
+.dets3 a{
+    width: 150px;
+    background-color: #ea2330;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.dets3 a:last-child{
+    background-color: rgba(153, 153, 153, 0.524);
+    color: #000;
+    /* color: #ea2330; */
+    /* border: 1px solid #ea2330; */
+}
+
+.details__tab{
+    margin-top: 100px;
+}
+/* details page */

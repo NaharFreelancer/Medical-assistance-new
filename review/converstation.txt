@@ -1,0 +1,322 @@
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:27 AM
+ReportSpam
+My CTO is asking to create HTML page for our existing website https://test.marlinmedicalassistance.com/. Based on the current theme and page layout, I need to design some inner pages.
+
+1. About us page
+2. Visa Page
+3. Package Listing and Details Page (Initially we discussed for that)
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:28 AM
+ReportSpam
+Like this
+
+Wirefrem for Iqbal Bhai.pptx
+(6.76 MB)
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:31 AM
+ReportSpam
+Like this
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:31 AM
+ReportSpam
+Can you that?
+
+m
+Me
+Nov 23, 2022, 11:36 AM
+You have told me 3 page3s. but on your slide I get to see different page and section layout.
+
+m
+Me
+Nov 23, 2022, 11:37 AM
+treatement landing page.?
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:37 AM
+ReportSpam
+Only 3 pages but in About us page there is different section and we mention that how it looks like
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:44 AM
+ReportSpam
+This one
+
+Wirefrem for Fiverr.pptx
+(4.95 MB)
+
+m
+Me
+Nov 23, 2022, 11:48 AM
+let me see
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:49 AM
+Translate to English
+ReportSpam
+Sure
+
+m
+Me
+Nov 23, 2022, 11:49 AM
+Do you mean these are the about us page sections?
+
+
+image.png
+(81.39 kB)
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:50 AM
+ReportSpam
+yes
+
+m
+Me
+Nov 23, 2022, 11:52 AM
+ok, could you please provide me the reference site sections link? so that I could get it margin, padding text size perfectly, as you know working on jpg little bit time consuming.
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:52 AM
+ReportSpam
+In wireframe, you can see the link
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:53 AM
+ReportSpam
+https://www.kaleyra.com/about-kaleyra/
+
+m
+Me
+Nov 23, 2022, 11:54 AM
+in wireframe, I only see this.
+no link here.
+
+
+image.png
+(196.23 kB)
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:54 AM
+ReportSpam
+yes
+
+m
+Me
+Nov 23, 2022, 11:55 AM
+could you mention link on every section you found from? so that I could make it pixel perfect.
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:55 AM
+ReportSpam
+For listing
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:55 AM
+ReportSpam
+https://www.easemytrip.com/offers/flights.html?msclkid=b0099d2411f41a46179ffe59a45ab847&utm_source=bing&utm_medium=cpc&utm_campaign=Offers&utm_term=flight%20ticket%20offers&utm_content=Flight_offers_BM
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:56 AM
+ReportSpam
+https://www.yatra.com/offer/dom/listing/domestic-flight-deals
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:57 AM
+ReportSpam
+Sorry, for listing
+
+m
+Me
+Nov 23, 2022, 11:58 AM
+it would be better if you could mention me on wirefrem.
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:58 AM
+ReportSpam
+for visa simple page for lead generation type
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:58 AM
+ReportSpam
+Its mention already
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 11:59 AM
+ReportSpam
+for detail of package its not mention and we don;t have basically
+
+m
+Me
+Nov 23, 2022, 12:00 PM
+so these will be detail page sections?
+
+
+image.png
+(96.94 kB)
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 12:01 PM
+ReportSpam
+Yes, We have discussed on Zoom also
+
+m
+Me
+Nov 23, 2022, 12:02 PM
+yes,
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 12:05 PM
+ReportSpam
+Have you go through it?
+
+m
+Me
+Nov 23, 2022, 12:05 PM
+yes
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 12:06 PM
+ReportSpam
+What is your though? Can you do the project?
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 12:06 PM
+ReportSpam
+http://test.marlinmedicalassistance.com/
+
+
+Current website
+
+m
+Me
+Nov 23, 2022, 12:07 PM
+Yes, surely. will you provide me api for the listing and detail listing?
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 12:07 PM
+ReportSpam
+We need in GitHub
+
+m
+Me
+Nov 23, 2022, 12:20 PM
+should I sent my github username?
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 12:23 PM
+ReportSpam
+Not now.. when the project got done
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 12:25 PM
+ReportSpam
+And yes we will give you API if you required
+
+m
+Me
+Nov 23, 2022, 12:32 PM
+okay
+The previous price was $100, but now you have added 2page more.
+So the updated price would be $150 and 8 working days,
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 2:24 PM
+ReportSpam
+Actually last time frontend and backend both was but now we need only html page
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 2:25 PM
+ReportSpam
+Can you develop it in $100?
+
+m
+Me
+Nov 23, 2022, 2:27 PM
+let me think about it.
+
+m
+Me
+Nov 23, 2022, 2:29 PM
+Just HTML design? not needed any frontend development and API integration?
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 2:53 PM
+ReportSpam
+Yes, just HTML design
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 2:54 PM
+ReportSpam
+And time?
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 2:58 PM
+ReportSpam
+And time?
+
+m
+Me
+Nov 23, 2022, 3:02 PM
+is there any preferable time range from you?
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 3:02 PM
+ReportSpam
+Need as soon as possible. Max one week
+
+m
+Me
+Nov 23, 2022, 3:03 PM
+okay
+i'm trying to develop this in 5 days but order placed with 7 working days, is it okay ?
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 3:07 PM
+Translate to English
+ReportSpam
+Ok...
+
+M
+mdafzalsiddiqui
+Nov 23, 2022, 3:08 PM
+ReportSpam
+But please follow the good quality
+
+m
+Me
+Nov 23, 2022, 3:10 PM
+Sure
+always I will in touch with you and give you the working updates. if you confirm then will progress next steps .
